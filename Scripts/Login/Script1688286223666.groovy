@@ -21,3 +21,5 @@ WebUI.openBrowser('http://www.google.com')
 
 WebUI.closeBrowser()
 
+WebUI.delay(2)
+
