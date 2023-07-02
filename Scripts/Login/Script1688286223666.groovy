@@ -23,3 +23,5 @@ WebUI.closeBrowser()
 
 WebUI.delay(2)
 
+WebUI.closeBrowser()
+
